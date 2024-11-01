@@ -36,3 +36,204 @@
     transform: rotate(360deg);
   }
 }
+
+.app-container {
+  display: flex;
+  min-height: 100vh;
+  background-color: #0a1929;
+  position: relative;
+}
+
+.sidebar {
+  width: 280px;
+  background: linear-gradient(165deg, 
+    rgba(30, 58, 95, 0.95) 0%,
+    rgba(26, 41, 66, 0.95) 100%);
+  padding: 30px;
+  box-sizing: border-box;
+  border-right: 1px solid rgba(66, 153, 225, 0.2);
+  backdrop-filter: blur(10px);
+  box-shadow: 
+    0 4px 32px rgba(0, 0, 0, 0.2),
+    0 0 64px rgba(66, 153, 225, 0.1) inset;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  overflow: visible;
+  z-index: 100;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.sidebar.collapsed {
+  width: 80px;
+  padding: 30px 10px;
+}
+
+.sidebar.collapsed .logo-container,
+.sidebar.collapsed .nav-link span {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.sidebar.collapsed .nav-menu {
+  align-items: center;
+}
+
+.sidebar.collapsed .nav-link {
+  width: 36px;
+  height: 36px;
+  padding: 10px;
+  justify-content: center;
+  border-radius: 12px;
+  margin: 0 auto;
+}
+
+.sidebar.collapsed .nav-link span {
+  opacity: 0;
+  transform: translateX(10px);
+  position: absolute;
+}
+
+.sidebar-toggle {
+  position: absolute;
+  top: 50%;
+  right: -18px;
+  transform: translateY(-50%);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(145deg, #4299e1 0%, #3182ce 100%);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 
+    0 4px 12px rgba(0, 0, 0, 0.2),
+    0 0 0 2px rgba(66, 153, 225, 0.3);
+  z-index: 1000;
+  padding: 0;
+}
+
+.toggle-icon {
+  width: 20px;
+  height: 20px;
+  fill: #ffffff;
+  filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.3));
+  transition: transform 0.3s ease;
+}
+
+.sidebar.collapsed .toggle-icon {
+  transform: rotate(0deg);
+}
+
+.sidebar .toggle-icon {
+  transform: rotate(0deg);
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+  margin-left: 280px;
+  min-height: 100vh;
+  box-sizing: border-box;
+  transition: margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.main-content.expanded {
+  margin-left: 40px;
+}
+
+.logo-container {
+  margin-bottom: 50px;
+  text-align: center;
+  position: relative;
+}
+
+.logo-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 28px;
+  color: #4299e1;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0;
+  text-shadow: 
+    0 0 10px rgba(66, 153, 225, 0.5),
+    0 0 20px rgba(66, 153, 225, 0.3);
+  position: relative;
+}
+
+.logo-title::after {
+  content: '';
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 2px;
+  background: linear-gradient(90deg, 
+    transparent,
+    #4299e1,
+    transparent
+  );
+}
+
+.nav-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 24px;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 12px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  background: linear-gradient(145deg, 
+    rgba(30, 58, 95, 0.3) 0%, 
+    rgba(45, 72, 114, 0.3) 100%);
+  border: 1px solid rgba(66, 153, 225, 0.1);
+  margin-bottom: 8px;
+  position: relative;
+  overflow: hidden;
+}
+
+.nav-link:hover {
+  background: linear-gradient(145deg, 
+    rgba(66, 153, 225, 0.2) 0%, 
+    rgba(49, 130, 206, 0.2) 100%);
+  transform: translateY(-2px);
+  border-color: rgba(66, 153, 225, 0.3);
+  box-shadow: 
+    0 4px 12px rgba(66, 153, 225, 0.2),
+    0 0 0 1px rgba(66, 153, 225, 0.2);
+}
+
+.nav-link.active {
+  background: linear-gradient(145deg, #4299e1 0%, #3182ce 100%);
+  border-color: rgba(66, 153, 225, 0.5);
+  box-shadow: 
+    0 4px 15px rgba(66, 153, 225, 0.3),
+    0 0 0 1px rgba(66, 153, 225, 0.5);
+}
+
+.nav-icon {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 2;
+  padding: 0 3px;
+}
+
+.nav-link span {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  white-space: nowrap;
+}
