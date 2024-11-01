@@ -1,0 +1,79 @@
+ 
+.overview, .history, .culture-and-society, .unified-attack, .integration, .legacy-and-current-role, .philosophy-and-beliefs, .weapons, .trade, .physiology {
+    background-color: #1e2a38;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: #d1d5db;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .overview h1 {
+    color: #4299e1;
+    font-size: 2.5em;
+    text-shadow: 2px 2px #0a1929;
+  }
+  
+  .history h2, .culture-and-society h2, .unified-attack h2, .integration h2, .legacy-and-current-role h2, .philosophy-and-beliefs h2, .weapons h2, .trade h2, .physiology h2 {
+    color: #f6ad55;
+    border-bottom: 2px solid #f6ad55;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .history h3, .culture-and-society h3, .unified-attack h3, .integration h3, .legacy-and-current-role h3, .philosophy-and-beliefs h3, .weapons h3, .trade h3, .physiology h3 {
+    color: #68d391;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #a0aec0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .weapons ul ul {
+    list-style-type: circle;
+    margin-left: 20px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  strong {
+    color: #4299e1;
+  }
+  
+  .weapons li {
+    font-weight: bold;
+  }
+  
+  .weapons ul li ul li {
+    font-weight: normal;
+  }
+  
+  section, div {
+    animation: fadeInUp 0.5s ease-out;
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }

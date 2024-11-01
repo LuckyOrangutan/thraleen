@@ -1,0 +1,265 @@
+{
+  "nouns": {
+      "shadow": {
+          "word": "𐑯𐑰𐑪𐑯𐑰𐑪",
+          "pronunciation": "nyth-nyr",
+          "synonyms": ["darkness", "shade", "obscurity"]
+      },
+      "cavern": {
+          "word": "𐑯𐑰𐑪𐑞𐑧𐑖",
+          "pronunciation": "nyth-shess",
+          "synonyms": ["cave", "grotto", "hollow"]
+      },
+      "secret": {
+          "word": "𐑯𐑰𐑪𐑖𐑨𐑘",
+          "pronunciation": "nyth-shay",
+          "synonyms": ["mystery", "enigma", "hidden"]
+      },
+      "crystal": {
+          "word": "𐑯𐑰𐑪𐑯𐑰",
+          "pronunciation": "sith-nyr",
+          "synonyms": ["gem", "shard", "facet"]
+      },
+      "tunnel": {
+          "word": "𐑯𐑛𐑦𐑯",
+          "pronunciation": "nyss-din",
+          "synonyms": ["passage", "corridor", "shaft"]
+      },
+      "monarchy": {
+          "word": "𐑯𐑰𐑪𐑮𐑨𐑤",
+          "pronunciation": "nyth-raal",
+          "synonyms": ["crown", "throne", "regime"]
+      },
+      "secrecy": {
+          "word": "𐑦𐑯𐑨",
+          "pronunciation": "iss-na",
+          "synonyms": ["hiddenness", "privacy", "confidentiality"]
+      },
+      "mistrust": {
+          "word": "𐑪𐑥𐑛𐑧",
+          "pronunciation": "shith-deh",
+          "synonyms": ["suspicion", "doubt", "skepticism"]
+      },
+      "race": {
+          "word": "𐑦𐑚𐑨𐑛",
+          "pronunciation": "iss-bad",
+          "synonyms": ["species", "lineage", "heritage"]
+      },
+      "alchemy": {
+          "word": "𐑯𐑛𐑦𐑤",
+          "pronunciation": "nyss-thil",
+          "synonyms": ["chemistry", "transmutation", "magic"]
+      },
+      "induction": {
+          "word": "𐑥𐑗𐑡𐑢𐑨𐑛",
+          "pronunciation": "mys-wad",
+          "synonyms": ["initiation", "enrollment", "conduction"]
+      },
+      "spider": {
+          "word": "𐑐𐑧𐑛",
+          "pronunciation": "syth-ed",
+          "synonyms": ["arachnid", "weaver", "spinner"]
+      },
+      "rebellion": {
+          "word": "𐑯𐑰𐑪𐑮𐑧𐑚",
+          "pronunciation": "nyth-reb",
+          "synonyms": ["uprising", "revolt", "resistance"]
+      },
+      "indoctrination": {
+          "word": "𐑯𐑰𐑪𐑛𐑪𐑒",
+          "pronunciation": "nyth-dok",
+          "synonyms": ["teaching", "programming", "conditioning"]
+      },
+      "surveillance": {
+          "word": "𐑯𐑰𐑪𐑕𐑧𐑧",
+          "pronunciation": "nyth-see",
+          "synonyms": ["watching", "monitoring", "observation"]
+      },
+      "loyalty": {
+          "word": "𐑯𐑰𐑪𐑤𐑪𐑘",
+          "pronunciation": "nyth-loy",
+          "synonyms": ["allegiance", "faithfulness", "devotion"]
+      },
+      "fungus": {
+          "word": "𐑯𐑰𐑪𐑓𐑳𐑯",
+          "pronunciation": "sith-fun",
+          "synonyms": ["mushroom", "growth", "spore"]
+      },
+      "labyrinth": {
+          "word": "𐑯𐑰𐑪𐑤𐑨𐑚",
+          "pronunciation": "nyth-lab",
+          "synonyms": ["maze", "network", "complex"]
+      },
+      "infiltrator": {
+          "word": "𐑯𐑰𐑪𐑦𐑯𐑓",
+          "pronunciation": "syth-inf",
+          "synonyms": ["spy", "agent", "scout"]
+      }
+  },
+  "verbs": {
+      "infiltrate": {
+          "word": "𐑯𐑛𐑦𐑖𐑑",
+          "pronunciation": "nyss-isht",
+          "synonyms": ["penetrate", "breach", "enter"]
+      },
+      "sabotage": {
+          "word": "𐑪𐑥𐑛𐑧𐑐𐑑",
+          "pronunciation": "shith-ept",
+          "synonyms": ["destroy", "undermine", "disable"]
+      },
+      "maintain": {
+          "word": "𐑧𐑛𐑖𐑰",
+          "pronunciation": "esh-shi",
+          "synonyms": ["preserve", "sustain", "keep"]
+      },
+      "revolt": {
+          "word": "𐑥𐑗𐑡𐑪𐑮𐑧",
+          "pronunciation": "mys-sher",
+          "synonyms": ["rebel", "uprising", "resist"]
+      },
+      "undermine": {
+          "word": "𐑛𐑮𐑨𐑒𐑯𐑛",
+          "pronunciation": "drak-nyth",
+          "synonyms": ["weaken", "subvert", "sabotage"]
+      },
+      "trade": {
+          "word": "𐑯𐑨𐑛𐑐𐑥",
+          "pronunciation": "nyss-pem",
+          "synonyms": ["exchange", "barter", "deal"]
+      },
+      "assemble": {
+          "word": "𐑖𐑨𐑩𐑛",
+          "pronunciation": "shaa-nyth",
+          "synonyms": ["gather", "collect", "unite"]
+      },
+      "guard": {
+          "word": "𐑑𐑮𐑨𐑩𐑥",
+          "pronunciation": "thir-am",
+          "synonyms": ["protect", "watch", "defend"]
+      },
+      "sustain": {
+          "word": "𐑖𐑨𐑥𐑥𐑧𐑮",
+          "pronunciation": "sha-meer",
+          "synonyms": ["maintain", "support", "preserve"]
+      },
+      "oppress": {
+          "word": "𐑯𐑰𐑪𐑐𐑮𐑧𐑕",
+          "pronunciation": "nyth-pres",
+          "synonyms": ["suppress", "dominate", "control"]
+      },
+      "rebel": {
+          "word": "𐑯𐑰𐑪𐑮𐑧𐑚𐑧𐑤",
+          "pronunciation": "nyth-rebel",
+          "synonyms": ["resist", "revolt", "oppose"]
+      },
+      "indoctrinate": {
+          "word": "𐑯𐑰𐑪𐑛𐑪𐑒𐑑",
+          "pronunciation": "nyth-dokt",
+          "synonyms": ["teach", "program", "condition"]
+      },
+      "surveil": {
+          "word": "𐑯𐑰𐑪𐑕𐑧𐑧𐑑",
+          "pronunciation": "nyth-seet",
+          "synonyms": ["watch", "monitor", "observe"]
+      },
+      "lurk": {
+          "word": "𐑯𐑰𐑪𐑤𐑳𐑮𐑒",
+          "pronunciation": "syth-lurk",
+          "synonyms": ["hide", "wait", "conceal"]
+      },
+      "spy": {
+          "word": "𐑯𐑰𐑪𐑕𐑐𐑨𐑦",
+          "pronunciation": "nyth-spai",
+          "synonyms": ["observe", "watch", "scout"]
+      },
+      "mine": {
+          "word": "𐑯𐑰𐑪𐑥𐑨𐑦𐑯",
+          "pronunciation": "syth-main",
+          "synonyms": ["dig", "extract", "excavate"]
+      },
+      "scheme": {
+          "word": "𐑯𐑰𐑪𐑕𐑒𐑧𐑥",
+          "pronunciation": "nyth-skem",
+          "synonyms": ["plot", "plan", "conspire"]
+      }
+  },
+  "adjectives": {
+      "stealthy": {
+          "word": "𐑯𐑰𐑪𐑖𐑨𐑘𐑰",
+          "pronunciation": "nyth-shayi",
+          "synonyms": ["sneaky", "furtive", "covert"]
+      },
+      "subterranean": {
+          "word": "𐑯𐑰𐑪𐑞𐑧𐑖𐑩",
+          "pronunciation": "nyth-shesha",
+          "synonyms": ["underground", "below", "buried"]
+      },
+      "oppressive": {
+          "word": "𐑯𐑛𐑦𐑖𐑨𐑘",
+          "pronunciation": "nyss-shay",
+          "synonyms": ["crushing", "tyrannical", "harsh"]
+      },
+      "secretive": {
+          "word": "𐑖𐑨𐑩𐑥𐑥𐑧",
+          "pronunciation": "shaa-myre",
+          "synonyms": ["hidden", "covert", "clandestine"]
+      },
+      "resilient": {
+          "word": "𐑛𐑮𐑨𐑒𐑓𐑧𐑦",
+          "pronunciation": "drak-fey",
+          "synonyms": ["tough", "enduring", "hardy"]
+      },
+      "hierarchical": {
+          "word": "𐑥𐑗𐑡𐑦𐑯𐑛",
+          "pronunciation": "mys-jind",
+          "synonyms": ["ranked", "ordered", "structured"]
+      },
+      "isolated": {
+          "word": "𐑖𐑨𐑒𐑛𐑧",
+          "pronunciation": "shak-dey",
+          "synonyms": ["alone", "separate", "remote"]
+      },
+      "unyielding": {
+          "word": "𐑛𐑮𐑨𐑒𐑒𐑧",
+          "pronunciation": "drak-key",
+          "synonyms": ["stubborn", "firm", "rigid"]
+      },
+      "ancient": {
+          "word": "𐑢𐑨𐑛𐑩𐑑𐑧",
+          "pronunciation": "wad-they",
+          "synonyms": ["old", "primordial", "archaic"]
+      },
+      "bioluminescent": {
+          "word": "𐑖𐑨𐑩𐑕𐑒𐑧",
+          "pronunciation": "shaa-skey",
+          "synonyms": ["glowing", "luminous", "radiant"]
+      },
+      "cloaking": {
+          "word": "𐑯𐑛𐑦𐑖𐑩𐑥",
+          "pronunciation": "nyss-shom",
+          "synonyms": ["hiding", "concealing", "masking"]
+      },
+      "advanced": {
+          "word": "𐑯𐑛𐑧𐑖𐑥𐑗",
+          "pronunciation": "nyss-mych",
+          "synonyms": ["developed", "sophisticated", "progressive"]
+      }
+  },
+  "phrases": {
+      "By the King's decree": {
+          "word": "𐑯𐑰𐑪𐑮𐑨𐑤 𐑖𐑨𐑯 𐑯𐑰𐑪𐑛𐑧𐑒",
+          "pronunciation": "nyth-raal shan nyth-dek",
+          "synonyms": ["royal command", "sovereign order"]
+      },
+      "Shadows hide us": {
+          "word": "𐑯𐑰𐑪𐑯𐑰𐑪 𐑯𐑰𐑪𐑣𐑦𐑛",
+          "pronunciation": "nyth-nyr nyth-hid",
+          "synonyms": ["concealment prayer", "stealth blessing"]
+      },
+      "Eternal vigilance": {
+          "word": "𐑯𐑰𐑪𐑝𐑦𐑜 𐑯𐑰𐑪𐑧𐑑𐑧𐑮",
+          "pronunciation": "nyth-vig nyth-eter",
+          "synonyms": ["endless watch", "perpetual guard"]
+      }
+  }
+}

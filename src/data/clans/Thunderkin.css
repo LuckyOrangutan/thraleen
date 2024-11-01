@@ -1,0 +1,29 @@
+.dossier.thunderkin {
+    background-color: #2a3e50;
+    color: #e0ffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
+}
+
+.dossier.thunderkin h3 {
+    color: #7fffd4;
+}
+
+.dossier.thunderkin h4 {
+    color: #00ced1;
+}
+
+.dossier.thunderkin p {
+    line-height: 1.6;
+}
+
+.weapons li {
+    font-weight: bold;
+}
+
+.weapons ul li ul li {
+    font-weight: normal;
+}
+
+/* Add more styles as needed */

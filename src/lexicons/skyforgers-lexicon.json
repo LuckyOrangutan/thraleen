@@ -1,0 +1,107 @@
+{
+  "nouns": {
+    "sky": {
+      "word": "𐑪𐑥𐑛𐑯𐑛𐑥𐑡",
+      "pronunciation": "ohm-dun-dumj",
+      "synonyms": ["heavens", "atmosphere", "firmament"]
+    },
+    "starship": {
+      "word": "𐑪𐑥𐑛𐑞𐑧𐑖𐑩",
+      "pronunciation": "ohm-thesh-ah",
+      "synonyms": ["spacecraft", "vessel", "cruiser"]
+    },
+    "galaxy": {
+      "word": "𐑪𐑥𐑛𐑜𐑨𐑩𐑙",
+      "pronunciation": "ohm-gah-uhng",
+      "synonyms": ["cosmos", "universe", "space"]
+    },
+    "generational-ship": {
+      "word": "𐑪𐑥𐑞𐑮𐑘𐑒𐑝𐑨𐑒𐑕",
+      "pronunciation": "ohm-thryk-vax",
+      "definition": "Large vessel designed for multi-generational space travel",
+      "etymology": "Combines Thraleen (sky) + Adamantium (forge) + Thunderkin (void)",
+      "synonyms": ["star-vessel", "void-home", "generation-craft"]
+    },
+    "colony-home": {
+      "word": "𐑒𐑮𐑨𐑤𐑯𐑰𐑪𐑥𐑧",
+      "pronunciation": "kral-nyth-meh",
+      "definition": "Established settlement on a new world",
+      "etymology": "Frostborn (community) + Deepwalker (hidden) + Thraleen (dwelling)",
+      "synonyms": ["new-settlement", "star-home", "void-shelter"]
+    },
+    "star-forge": {
+      "word": "𐑯𐑰𐑪𐑤𐑨𐑮𐑞𐑮𐑨𐑤𐑒",
+      "pronunciation": "nyth-lahr-thralk",
+      "definition": "Space-based manufacturing facility",
+      "etymology": "Thraleen (star) + Adamantium (forge)",
+      "synonyms": ["void-workshop", "space-forge", "stellar-factory"]
+    }
+  },
+  "verbs": {
+    "forge": {
+      "word": "𐑪𐑥𐑛����𐑧𐑖𐑰",
+      "synonyms": ["create", "craft", "manufacture"]
+    },
+    "soar": {
+      "word": "𐑪𐑥𐑛𐑯𐑛𐑦𐑯",
+      "synonyms": ["fly", "ascend", "glide"]
+    },
+    "adapt-thrive": {
+      "word": "𐑝𐑣𐑘𐑤𐑯𐑘𐑕𐑝𐑦𐑝",
+      "pronunciation": "vhyl-nyss-viiv",
+      "definition": "To successfully adjust to new environments",
+      "etymology": "Frostborn (adapt) + Deepwalker (survive)",
+      "synonyms": ["evolve-persist", "change-flourish", "adjust-prosper"]
+    },
+    "forge-unite": {
+      "word": "𐑞𐑮𐑘𐑒𐑯𐑞𐑘𐑞",
+      "pronunciation": "thryk-nth-yth",
+      "definition": "To create together, combining strengths",
+      "etymology": "Adamantium (forge) + unified (together)",
+      "synonyms": ["build-together", "craft-unite", "make-one"]
+    }
+  },
+  "adjectives": {
+    "celestial": {
+      "word": "𐑪𐑥𐑛𐑯𐑛𐑥𐑡𐑰",
+      "synonyms": ["heavenly", "astral", "cosmic"]
+    },
+    "advanced": {
+      "word": "𐑪𐑥𐑛𐑞𐑧𐑖𐑨𐑩",
+      "synonyms": ["futuristic", "high-tech", "cutting-edge"]
+    }
+  },
+  "technicalTerms": {
+    "void-drive": {
+      "word": "𐑝𐑨𐑒𐑕𐑞𐑮𐑘𐑒𐑟𐑳𐑳𐑮",
+      "pronunciation": "vax-thryk-zuur",
+      "definition": "Propulsion system for space travel",
+      "etymology": "Thunderkin (void) + Adamantium (forge) + Thunderkin (power)",
+      "synonyms": ["star-engine", "space-thrust", "void-power"]
+    },
+    "shield-matrix": {
+      "word": "𐑞𐑳𐑯𐑒𐑘𐑞𐑝𐑮𐑨𐑤",
+      "pronunciation": "thun-kyth-vral",
+      "definition": "Advanced defensive system",
+      "etymology": "Adamantium (protect) + Thunderkin (knowledge)",
+      "synonyms": ["defense-web", "guard-network", "shield-web"]
+    }
+  },
+  "culturalConcepts": {
+    "clan-memory": {
+      "word": "𐑒𐑮𐑨𐑤𐑯𐑘𐑞𐑥𐑘𐑮",
+      "pronunciation": "kral-nyth-myr",
+      "definition": "Collective history and wisdom of all clans",
+      "etymology": "Frostborn (community) + Deepwalker (secret) + shared (memory)",
+      "synonyms": ["unified-history", "shared-wisdom", "collective-knowledge"]
+    }
+  },
+  "phrases": {
+    "united-we-forge-stars": {
+      "word": "𐑯𐑞𐑘𐑞𐑞𐑮𐑘𐑒 𐑯𐑘𐑞𐑤𐑨𐑮𐑝𐑳𐑳𐑮",
+      "pronunciation": "nth-yth-thryk nyth-lahr-vuur",
+      "definition": "Unity motto of the Skyforgers",
+      "synonyms": ["together-create-future", "unified-star-craft"]
+    }
+  }
+}

@@ -1,0 +1,697 @@
+{
+    "nouns": {
+        "cycle": {
+            "word": "𐑯𐑛𐑥𐑡𐑦",
+            "pronunciation": "nuh-mah-jee",
+            "synonyms": ["period", "rotation", "revolution"]
+        },
+        "clan": {
+            "word": "𐑖𐑨𐑩𐑥",
+            "pronunciation": "shah-uhm",
+            "synonyms": ["tribe", "family", "group"]
+        },
+        "war": {
+            "word": "𐑜𐑨𐑩𐑙",
+            "pronunciation": "gah-uhng",
+            "synonyms": ["conflict", "battle", "struggle"]
+        },
+        "peace": {
+            "word": "𐑬𐑰𐑮𐑖",
+            "pronunciation": "oo-eersh",
+            "synonyms": ["harmony", "truce", "ceasefire"]
+        },
+        "forge": {
+            "word": "𐑞𐑧𐑖𐑩",
+            "pronunciation": "theh-shah",
+            "synonyms": ["smithy", "workshop", "furnace"]
+        },
+        "weapon": {
+            "word": "𐑙𐑩𐑨𐑞",
+            "pronunciation": "ngah-ahth",
+            "synonyms": ["arm", "armament", "tool"]
+        },
+        "honor": {
+            "word": "𐑫𐑰𐑮𐑦",
+            "pronunciation": "mee-ree",
+            "synonyms": ["respect", "esteem", "dignity"]
+        },
+        "unity": {
+            "word": "𐑯𐑛𐑦𐑯",
+            "pronunciation": "nth-ihn",
+            "synonyms": ["union", "coalition", "alliance"]
+        },
+        "survival": {
+            "word": "𐑖𐑨𐑘𐑰𐑘",
+            "pronunciation": "shah-yee-yuh",
+            "synonyms": ["endurance", "persistence", "continuation"]
+        },
+        "technology": {
+            "word": "𐑮𐑧𐑑𐑦",
+            "pronunciation": "reh-tih",
+            "synonyms": ["innovation", "engineering", "machinery"]
+        },
+        "knowledge": {
+            "word": "𐑥𐑗𐑡𐑞",
+            "pronunciation": "m'ch-uhth",
+            "synonyms": ["wisdom", "understanding", "insight"]
+        },
+        "mountain": {
+            "word": "𐑔𐑢𐑪𐑑",
+            "pronunciation": "thwo-aht",
+            "synonyms": ["peak", "summit", "hill"]
+        },
+        "river": {
+            "word": "𐑮𐑦𐑝𐑧",
+            "pronunciation": "reev-eh",
+            "synonyms": ["stream", "waterway", "brook"]
+        },
+        "forest": {
+            "word": "𐑓𐑴𐑮𐑦𐑕",
+            "pronunciation": "fohr-ihs",
+            "synonyms": ["woodland", "jungle", "grove"]
+        },
+        "sky": {
+            "word": "𐑪𐑥𐑛𐑯𐑛𐑥𐑡",
+            "pronunciation": "ohm-dun-dumj",
+            "synonyms": ["heavens", "firmament", "atmosphere"]
+        },
+        "earth": {
+            "word": "𐑛𐑦𐑒𐑕",
+            "pronunciation": "dihks",
+            "synonyms": ["ground", "soil", "land"]
+        },
+        "sun": {
+            "word": "𐑪𐑕𐑩𐑛",
+            "pronunciation": "ohs-uhd",
+            "synonyms": ["star", "daystar", "sol"]
+        },
+        "moon": {
+            "word": "𐑥𐑰𐑜𐑪𐑯",
+            "pronunciation": "kyl-ahn",
+            "synonyms": ["satellite", "lunar", "orb"]
+        },
+        "star": {
+            "word": "𐑕𐑑𐑨𐑮",
+            "pronunciation": "nyth-lahr",
+            "synonyms": ["celestial body", "astral", "luminary"]
+        },
+        "ocean": {
+            "word": "𐑪𐑕𐑧𐑯",
+            "pronunciation": "drhul",
+            "synonyms": ["sea", "water", "deep"]
+        },
+        "fire": {
+            "word": "𐑓𐑦𐑮",
+            "pronunciation": "vahth",
+            "synonyms": ["flame", "blaze", "inferno"]
+        },
+        "wind": {
+            "word": "𐑞𐑦𐑛",
+            "pronunciation": "zhyv",
+            "synonyms": ["breeze", "gust", "draft"]
+        },
+        "rain": {
+            "word": "𐑮𐑨𐑯",
+            "pronunciation": "mhyr",
+            "synonyms": ["drizzle", "shower", "downpour"]
+        },
+        "stone": {
+            "word": "𐑕𐑑𐑪𐑤",
+            "pronunciation": "ghyth",
+            "synonyms": ["rock", "boulder", "pebble"]
+        },
+        "metal": {
+            "word": "𐑔𐑦𐑑𐑩𐑤",
+            "pronunciation": "khrax",
+            "synonyms": ["ore", "alloy", "element"]
+        },
+        "life": {
+            "word": "𐑤𐑦𐑝",
+            "pronunciation": "nyth-ul",
+            "synonyms": ["existence", "being", "animation"]
+        },
+        "death": {
+            "word": "𐑛𐑧𐑑𐑬",
+            "pronunciation": "vrakt",
+            "synonyms": ["demise", "end", "passing"]
+        },
+        "time": {
+            "word": "𐑑𐑦𐑥",
+            "pronunciation": "zhyth",
+            "synonyms": ["moment", "era", "period"]
+        },
+        "path": {
+            "word": "𐑛𐑬𐑑𐑩",
+            "pronunciation": "dow-tuh",
+            "synonyms": ["trail", "route", "way"]
+        },
+        "king": {
+            "word": "𐑒𐑦𐑙",
+            "pronunciation": "drahl",
+            "synonyms": ["ruler", "monarch", "sovereign"]
+        },
+        "queen": {
+            "word": "𐑒𐑦𐑤𐑩𐑯",
+            "pronunciation": "nyth-ra",
+            "synonyms": ["monarch", "empress", "consort"]
+        },
+        "child": {
+            "word": "𐑕𐑧𐑤𐑛",
+            "pronunciation": "sehld",
+            "synonyms": ["kid", "youth", "offspring"]
+        },
+        "friend": {
+            "word": "𐑓𐑮𐑦𐑜𐑦",
+            "pronunciation": "khy-ra",
+            "synonyms": ["companion", "ally", "comrade"]
+        },
+        "enemy": {
+            "word": "𐑓𐑨𐑯𐑛",
+            "pronunciation": "zhakt-ur",
+            "synonyms": ["foe", "adversary", "opponent"]
+        },
+        "victory": {
+            "word": "𐑔𐑮𐑨𐑤𐑯𐑪𐑮",
+            "pronunciation": "thrahl-nohr",
+            "synonyms": ["triumph", "win", "conquest"]
+        },
+        "loss": {
+            "word": "𐑤𐑴𐑕𐑕",
+            "pronunciation": "vrakt-us",
+            "synonyms": ["defeat", "failure", "setback"]
+        },
+        "magic": {
+            "word": "𐑥𐑨𐑒𐑦",
+            "pronunciation": "mhyr-ki",
+            "synonyms": ["sorcery", "wizardry", "alchemy"]
+        },
+        "spirit": {
+            "word": "𐑕𐑮𐑦𐑑",
+            "pronunciation": "nyth-ril",
+            "synonyms": ["soul", "essence", "ghost"]
+        },
+        "courage": {
+            "word": "𐑒𐑪𐑮𐑧𐑓",
+            "synonyms": ["bravery", "valor", "fearlessness"]
+        },
+        "fear": {
+            "word": "𐑓𐑧𐑩𐑮",
+            "synonyms": ["dread", "terror", "apprehension"]
+        },
+        "hope": {
+            "word": "𐑥𐑪𐑤𐑩",
+            "synonyms": ["aspiration", "desire", "dream"]
+        },
+        "despair": {
+            "word": "𐑛𐑧𐑕𐑐𐑩𐑮",
+            "synonyms": ["hopelessness", "misery", "despondency"]
+        },
+        "world": {
+            "word": "𐑙𐑦𐑖𐑩𐑙",
+            "synonyms": ["earth", "globe", "universe"]
+        },
+        "language": {
+            "word": "𐑤𐑨𐑯𐑩𐑒",
+            "synonyms": ["tongue", "speech", "dialect"]
+        },
+        "history": {
+            "word": "𐑕𐑦𐑑𐑩𐑮𐑦",
+            "synonyms": ["past", "chronicle", "record"]
+        },
+        "future": {
+            "word": "𐑑𐑳𐑕𐑩𐑮",
+            "synonyms": ["destiny", "fate", "tomorrow"]
+        },
+        "present": {
+            "word": "𐑛𐑦𐑕𐑦𐑑",
+            "synonyms": ["now", "current", "moment"]
+        },
+        "journey": {
+            "word": "𐑡𐑹𐑜𐑴𐑑",
+            "synonyms": ["voyage", "expedition", "trip"]
+        },
+        "home": {
+            "word": "𐑥𐑴𐑥𐑧",
+            "synonyms": ["residence", "dwelling", "abode"]
+        },
+        "truth": {
+            "word": "𐑑𐑮𐑳𐑑𐑦",
+            "synonyms": ["fact", "reality", "verity"]
+        },
+        "lie": {
+            "word": "𐑤𐑦",
+            "synonyms": ["falsehood", "deceit", "fabrication"]
+        },
+        "explorer": {
+            "word": "𐑥𐑰𐑤𐑱𐑮",
+            "synonyms": ["adventurer", "traveler", "voyager"]
+        },
+        "warrior": {
+            "word": "𐑒𐑮𐑨𐑒𐑔𐑳𐑮",
+            "synonyms": ["fighter", "soldier", "combatant"]
+        },
+        "healer": {
+            "word": "𐑥𐑧𐑤𐑦𐑮",
+            "synonyms": ["medic", "curer", "therapist"]
+        },
+        "leader": {
+            "word": "𐑧𐑛𐑦𐑮",
+            "synonyms": ["chief", "commander", "head"]
+        },
+        "follower": {
+            "word": "𐑓𐑪𐑤𐑴𐑮",
+            "synonyms": ["disciple", "adherent", "supporter"]
+        },
+        "man": {
+            "word": "𐑥𐑨𐑯",
+            "synonyms": ["person", "human", "individual"]
+        },
+        "axe": {
+            "word": "𐑨𐑒𐑕",
+            "synonyms": ["hatchet", "tool", "chopper"]
+        },
+        "soldier": {
+            "word": "𐑒𐑮𐑨𐑒𐑔𐑳𐑮",
+            "synonyms": ["warrior", "fighter", "combatant"]
+        },
+        "arrow": {
+            "word": "𐑨𐑮𐑪𐑢",
+            "synonyms": ["projectile", "bolt", "missile"]
+        },
+        "smith": {
+            "word": "𐑒𐑦𐑤𐑛𐑧𐑦",
+            "synonyms": ["metalshaper", "forgemaster"]
+        },
+        "mine": {
+            "word": "𐑥𐑨𐑦𐑯",
+            "pronunciation": "mah-in",
+            "synonyms": ["pit", "shaft", "excavation"]
+        },
+        "dawn": {
+            "word": "𐑛𐑪𐑯𐑧",
+            "pronunciation": "doh-neh",
+            "synonyms": ["daybreak", "sunrise", "morning"]
+        },
+        "dusk": {
+            "word": "𐑛𐑳𐑕𐑒",
+            "pronunciation": "duh-sk",
+            "synonyms": ["twilight", "sunset", "nightfall"]
+        }
+    },
+    "verbs": {
+        "fight": {
+            "word": "𐑜𐑨𐑩𐑖",
+            "pronunciation": "gaa-uhsh",
+            "synonyms": ["battle", "struggle", "contend"]
+        },
+        "forge": {
+            "word": "𐑞𐑧𐑖𐑰",
+            "pronunciation": "theh-shee",
+            "synonyms": ["create", "craft", "fabricate"]
+        },
+        "survive": {
+            "word": "𐑖𐑨𐑘𐑰",
+            "pronunciation": "shah-yee",
+            "synonyms": ["endure", "persist", "live on"]
+        },
+        "unite": {
+            "word": "𐑯𐑛𐑦𐑯",
+            "pronunciation": "nth-ihn",
+            "synonyms": ["join", "combine", "ally"]
+        },
+        "destroy": {
+            "word": "𐑯𐑩𐑨𐑞",
+            "pronunciation": "nuh-aath",
+            "synonyms": ["ruin", "annihilate", "demolish"]
+        },
+        "build": {
+            "word": "𐑞𐑧𐑖𐑗",
+            "pronunciation": "theh-shuch",
+            "synonyms": ["construct", "create", "establish"]
+        },
+        "smelt": {
+            "word": "𐑞𐑧𐑖𐑜𐑨𐑩",
+            "synonyms": ["melt", "refine", "purify"]
+        },
+        "lead": {
+            "word": "𐑤𐑧𐑛",
+            "pronunciation": "nyth-led",
+            "synonyms": ["guide", "direct", "command"]
+        },
+        "follow": {
+            "word": "𐑓𐑪𐑤𐑰",
+            "pronunciation": "vhur-lee",
+            "synonyms": ["pursue", "trail", "chase"]
+        },
+        "speak": {
+            "word": "𐑕𐑐𐑦𐑒",
+            "pronunciation": "zhyv-ik",
+            "synonyms": ["talk", "converse", "utter"]
+        },
+        "listen": {
+            "word": "𐑤𐑦𐑕𐑧𐑯",
+            "pronunciation": "lih-sehn",
+            "synonyms": ["hear", "attend", "heed"]
+        },
+        "see": {
+            "word": "𐑕𐑦",
+            "pronunciation": "kryth",
+            "synonyms": ["view", "observe", "perceive"]
+        },
+        "know": {
+            "word": "𐑤𐑰𐑜",
+            "pronunciation": "nyth-yg",
+            "synonyms": ["understand", "comprehend", "grasp"]
+        },
+        "learn": {
+            "word": "𐑤𐑧𐑮𐑯",
+            "pronunciation": "mhyr-en",
+            "synonyms": ["study", "acquire", "absorb"]
+        },
+        "teach": {
+            "word": "𐑑𐑦𐑐𐑦",
+            "pronunciation": "tih-pee",
+            "synonyms": ["instruct", "educate", "train"]
+        },
+        "grow": {
+            "word": "𐑡𐑮𐑪",
+            "pronunciation": "zhyv-ro",
+            "synonyms": ["develop", "increase", "expand"]
+        },
+        "move": {
+            "word": "𐑥𐑰𐑝",
+            "pronunciation": "mhyr-ve",
+            "synonyms": ["shift", "travel", "proceed"]
+        },
+        "stay": {
+            "word": "𐑕𐑑𐑧",
+            "pronunciation": "nyth-eh",
+            "synonyms": ["remain", "wait", "linger"]
+        },
+        "give": {
+            "word": "𐑒𐑦𐑝",
+            "pronunciation": "khy-ve",
+            "synonyms": ["provide", "offer", "grant"]
+        },
+        "take": {
+            "word": "𐑑𐑨𐑒",
+            "pronunciation": "zhyv-ak",
+            "synonyms": ["receive", "acquire", "obtain"]
+        },
+        "begin": {
+            "word": "𐑚𐑰𐑯",
+            "synonyms": ["start", "commence", "initiate"]
+        },
+        "end": {
+            "word": "𐑧𐑯",
+            "synonyms": ["finish", "conclude", "terminate"]
+        },
+        "love": {
+            "word": "𐑤𐑴𐑝",
+            "synonyms": ["adore", "cherish", "treasure"]
+        },
+        "hate": {
+            "word": "𐑥𐑦𐑑",
+            "synonyms": ["loathe", "detest", "abhor"]
+        },
+        "create": {
+            "word": "𐑒𐑮𐑦𐑑",
+            "synonyms": ["make", "produce", "form"]
+
+        },
+        "protect": {
+            "word": "𐑯𐑮𐑬𐑒",
+            "synonyms": ["defend", "guard", "safeguard"]
+        },
+        "walk": {
+            "word": "𐑢𐑪𐑒",
+            "synonyms": ["move", "go", "travel"]
+        },
+        "find": {
+            "word": "𐑓𐑨𐑦𐑯𐑛",
+            "synonyms": ["discover", "locate", "uncover"]
+        },
+        "fire": {
+            "word": "𐑓𐑨𐑦𐑮",
+            "synonyms": ["shoot", "launch", "discharge"]
+        },
+        "can": {
+            "word": "𐑒𐑨𐑯",
+            "synonyms": ["able", "capable", "possible"]
+        },
+        "do": {
+            "word": "𐑛𐑪",
+            "synonyms": ["perform", "act", "execute"]
+        },
+        "work": {
+            "word": "𐑢𐑹𐑒",
+            "pronunciation": "wor-k",
+            "synonyms": ["labor", "toil", "function"]
+        },
+        "mine": {
+            "word": "𐑥𐑨𐑦𐑯𐑧",
+            "pronunciation": "mah-in-eh",
+            "synonyms": ["dig", "extract", "excavate"]
+        }
+    },
+    "adjectives": {
+        "strong": {
+            "word": "𐑞𐑧𐑖𐑨𐑩",
+            "pronunciation": "theh-shah-uh",
+            "synonyms": ["powerful", "mighty", "robust"]
+        },
+        "weak": {
+            "word": "𐑢𐑧𐑒",
+            "pronunciation": "vhur-ek",
+            "synonyms": ["fragile", "frail", "feeble"]
+        },
+        "wise": {
+            "word": "𐑥𐑗𐑡𐑰",
+            "pronunciation": "m'ch-jee",
+            "synonyms": ["knowledgeable", "sagacious", "learned"]
+        },
+        "foolish": {
+            "word": "𐑓𐑵𐑤𐑦𐑕",
+            "pronunciation": "zhakt-lis",
+            "synonyms": ["silly", "unwise", "unintelligent"]
+        },
+        "brave": {
+            "word": "𐑚𐑮𐑪𐑤",
+            "pronunciation": "khor-al",
+            "synonyms": ["courageous", "valiant", "fearless"]
+        },
+        "cowardly": {
+            "word": "𐑒𐑴𐑮𐑛𐑦",
+            "pronunciation": "zhyv-di",
+            "synonyms": ["timid", "fearful", "craven"]
+        },
+        "old": {
+            "word": "𐑷𐑤",
+            "pronunciation": "nyth-ul",
+            "synonyms": ["ancient", "aged", "elderly"]
+        },
+        "new": {
+            "word": "𐑬𐑕",
+            "pronunciation": "khy-us",
+            "synonyms": ["modern", "recent", "fresh"]
+        },
+        "good": {
+            "word": "𐑒𐑪𐑛",
+            "pronunciation": "mhyr-od",
+            "synonyms": ["excellent", "great", "virtuous"]
+        },
+        "bad": {
+            "word": "𐑚𐑨𐑛",
+            "pronunciation": "zhakt-ad",
+            "synonyms": ["evil", "poor", "wicked"]
+        },
+        "cold": {
+            "word": "𐑬𐑨𐑕𐑩𐑰",
+            "pronunciation": "ooh-ahs-uh-ee",
+            "synonyms": ["chilly", "frigid", "cool"]
+        },
+        "hot": {
+            "word": "𐑐𐑩𐑑",
+            "pronunciation": "vahth-ut",
+            "synonyms": ["warm", "heated", "scorching"]
+        },
+        "dark": {
+            "word": "𐑯𐑰𐑪𐑩",
+            "pronunciation": "nee-oh-uh",
+            "synonyms": ["black", "dim", "shadowy"]
+        },
+        "light": {
+            "word": "𐑤𐑦𐑑",
+            "pronunciation": "khy-lit",
+            "synonyms": ["bright", "luminous", "radiant"]
+        },
+        "happy": {
+            "word": "𐑥𐑩𐑤𐑦",
+            "synonyms": ["joyful", "content", "pleased"]
+        },
+        "sad": {
+            "word": "𐑕𐑬𐑛",
+            "synonyms": ["unhappy", "sorrowful", "melancholic"]
+        },
+        "quick": {
+            "word": "𐑐𐑳𐑒",
+            "synonyms": ["fast", "swift", "rapid"]
+        },
+        "slow": {
+            "word": "𐑕𐑤𐑪𐑛",
+            "synonyms": ["lethargic", "sluggish", "unhurried"]
+        },
+        "big": {
+            "word": "𐑚𐑦𐑒",
+            "synonyms": ["large", "huge", "immense"]
+        },
+        "small": {
+            "word": "𐑕𐑥𐑪𐑤",
+            "synonyms": ["tiny", "little", "miniature"]
+        },
+        "beautiful": {
+            "word": "𐑚𐑧𐑝𐑭𐑑",
+            "synonyms": ["lovely", "attractive", "pretty"]
+        },
+        "ugly": {
+            "word": "𐑥𐑬𐑤𐑦",
+            "synonyms": ["unattractive", "unsightly", "hideous"]
+        },
+        "ancient": {
+            "word": "𐑷𐑤𐑦𐑯",
+            "synonyms": ["old", "antique", "archaic"]
+        },
+        "modern": {
+            "word": "𐑥𐑨𐑛𐑮𐑧𐑯",
+            "synonyms": ["contemporary", "current", "present-day"]
+        },
+        "more": {
+            "word": "𐑥𐑪𐑮",
+            "synonyms": ["additional", "extra", "further"]
+        },
+        "much": {
+            "word": "𐑥𐑳𐑗",
+            "synonyms": ["plenty", "lot", "great"]
+        },
+        "so": {
+            "word": "𐑕𐑪",
+            "synonyms": ["thus", "such", "very"]
+        },
+        "working": {
+            "word": "𐑢𐑹𐑒𐑦𐑙",
+            "pronunciation": "wor-king",
+            "synonyms": ["functioning", "operational", "active"]
+        },
+        "early": {
+            "word": "𐑧𐑮𐑤𐑦",
+            "pronunciation": "er-li",
+            "synonyms": ["dawn", "initial", "beginning"]
+        },
+        "late": {
+            "word": "𐑤𐑧𐑦𐑑",
+            "pronunciation": "lay-t",
+            "synonyms": ["tardy", "delayed", "overdue"]
+        }
+    },
+    "comparisons": {
+        "than": {
+            "word": "𐑔𐑨𐑯",
+            "pronunciation": "khy-an",
+            "synonyms": ["compared to", "versus", "against"]
+        },
+        "more": {
+            "word": "𐑥𐑪𐑮",
+            "pronunciation": "mohr",
+            "synonyms": ["greater", "increased", "additional"]
+        },
+        "less": {
+            "word": "𐑤𐑧𐑕",
+            "pronunciation": "lehs",
+            "synonyms": ["fewer", "decreased", "reduced"]
+        }
+    },
+    "pronouns": {
+        "we": {
+            "word": "𐑢𐑧",
+            "pronunciation": "weh",
+            "synonyms": ["us", "our group", "ourselves"]
+        }
+    },
+    "commonWords": {
+        "the": {
+            "word": "𐑛𐑧𐑛",
+            "pronunciation": "yth",
+            "type": "article"
+        },
+        "a": {
+            "word": "𐑐𐑑",
+            "pronunciation": "va",
+            "type": "article"
+        },
+        "an": {
+            "word": "𐑐𐑑",
+            "pronunciation": "va",
+            "type": "article"
+        },
+        "in": {
+            "word": "𐑦𐑯",
+            "pronunciation": "zhyn",
+            "type": "preposition"
+        },
+        "on": {
+            "word": "𐑪𐑯",
+            "pronunciation": "nyth-on",
+            "type": "preposition"
+        },
+        "at": {
+            "word": "𐑨𐑑",
+            "pronunciation": "khy-at",
+            "type": "preposition"
+        },
+        "to": {
+            "word": "𐑑𐑳",
+            "pronunciation": "thu",
+            "type": "preposition"
+        },
+        "from": {
+            "word": "𐑓𐑮𐑪𐑥",
+            "pronunciation": "kryv",
+            "type": "preposition"
+        },
+        "with": {
+            "word": "𐑢𐑦𐑔",
+            "pronunciation": "nyth",
+            "type": "preposition"
+        },
+        "by": {
+            "word": "𐑚𐑦",
+            "pronunciation": "vhi",
+            "type": "preposition"
+        },
+        "and": {
+            "word": "𐑙𐑩𐑨",
+            "pronunciation": "khra",
+            "type": "conjunction"
+        },
+        "or": {
+            "word": "𐑖𐑨𐑩𐑮",
+            "pronunciation": "zhyr",
+            "type": "conjunction"
+        },
+        "but": {
+            "word": "𐑛𐑮𐑨𐑒𐑑",
+            "pronunciation": "vhyn",
+            "type": "conjunction"
+        },
+        "of": {
+            "word": "𐑪𐑓",
+            "pronunciation": "yth-of",
+            "type": "preposition"
+        },
+        "for": {
+            "word": "𐑓𐑪𐑮",
+            "pronunciation": "khy-or",
+            "type": "preposition"
+        }
+    }
+}

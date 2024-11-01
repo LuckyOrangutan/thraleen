@@ -1,0 +1,127 @@
+{
+    "nouns": {
+        "flying frost-beast": {
+            "word": "𐑉𐑂𐑄𐑀",
+            "pronunciation": "khul-gari",
+            "definition": "Giant, flying marsupials native to the Frost Peaks",
+            "synonyms": ["frost-beast", "marsupial", "griffon", "sky-beast", "frost-mount", "wind-rider"]
+        },
+        "worm whiskey": {
+            "word": "𐑌𐑄𐑃𐑉",
+            "pronunciation": "jipper",
+            "definition": "A potent spirit made from glowworms, used as a trade commodity",
+            "synonyms": ["glowspirit", "ferment", "elixir"]
+        },
+        "trinket": {
+            "word": "𐑕𐑃𐑊𐑀",
+            "pronunciation": "svyl-guh",
+            "definition": "A small, valuable item traded by the Frostborn",
+            "synonyms": ["keepsake", "token", "memento"]
+        },
+        "flying death-warrior": {
+            "word": "𐑕𐑃𐑊𐑜𐑨𐑮𐑦",
+            "pronunciation": "ghek-tyr",
+            "definition": "A sacred warrior who bonds with and rides the Khulgari, dedicating their life to this noble calling",
+            "synonyms": ["khulgari-rider", "sky-warrior", "beast-bonded", "wind-warrior", "frost-hero"]
+        },
+        "glacier": {
+            "word": "𐑂𐑄𐑁𐑊𐑨𐑕",
+            "pronunciation": "vhyl-flas",
+            "synonyms": ["ice-river", "frost-flow", "cold-mass"]
+        }
+    },
+    "verbs": {
+        "navigate": {
+            "word": "𐑂𐑄𐑁𐑉",
+            "pronunciation": "vhyl-fuur",
+            "definition": "To find one's way through difficult terrain",
+            "synonyms": ["traverse", "cross", "pilot"]
+        },
+        "ferment": {
+            "word": "𐑊𐑀𐑃𐑉",
+            "pronunciation": "nyth-guur",
+            "definition": "To process liquids to produce spirit",
+            "synonyms": ["brew", "distill", "cultivate"]
+        },
+        "trade": {
+            "word": "𐑊𐑂𐑇",
+            "pronunciation": "kral-vash",
+            "definition": "To exchange goods or services",
+            "synonyms": ["barter", "swap", "exchange"]
+        },
+        "survive": {
+            "word": "𐑂𐑄𐑝𐑦𐑝",
+            "pronunciation": "kral-viiv",
+            "synonyms": ["endure", "persist", "outlast"]
+        }
+    },
+    "adjectives": {
+        "resilient": {
+            "word": "𐑁𐑂𐑇𐑉",
+            "pronunciation": "fyl-shuur",
+            "definition": "Able to withstand or recover quickly from difficult conditions",
+            "synonyms": ["tough", "hardy", "durable"]
+        },
+        "adaptable": {
+            "word": "𐑉𐑂𐑇𐑆",
+            "pronunciation": "vhyl-zhuur",
+            "definition": "Able to adjust to new conditions",
+            "synonyms": ["flexible", "versatile", "malleable"]
+        },
+        "democratic": {
+            "word": "𐑉𐑂𐑄𐑅",
+            "pronunciation": "ryv-suul",
+            "definition": "Relating to or supporting democracy or its principles",
+            "synonyms": ["representative", "participatory", "egalitarian"]
+        }
+    },
+    "survivalTerms": {
+        "ice-reading": {
+            "word": "𐑂𐑄𐑉𐑦𐑛",
+            "pronunciation": "vhyl-riid",
+            "synonyms": ["frost-sight", "cold-wisdom", "ice-knowledge"]
+        }
+    },
+    "kougariTerms": {
+        "rider-bond": {
+            "word": "𐑕𐑃𐑊𐑚𐑪𐑯𐑛",
+            "pronunciation": "svyl-khuur",
+            "synonyms": ["beast-link", "mount-connection", "sky-bond"]
+        }
+    },
+    "weatherTerms": {
+        "frost-wind": {
+            "word": "𐑂𐑄𐑢𐑦𐑯𐑛",
+            "pronunciation": "ryv-wiind",
+            "synonyms": ["ice-breeze", "cold-gust", "snow-wind"]
+        }
+    },
+    "craftingTerms": {
+        "ice-tool": {
+            "word": "𐑂𐑄𐑑𐑳𐑊",
+            "pronunciation": "vhyl-tuul",
+            "synonyms": ["frost-maker", "cold-shaper", "ice-worker"]
+        }
+    },
+    "traditionalPhrases": {
+        "May the Frost Guide": {
+            "word": "𐑂𐑄𐑜𐑨𐑦𐑛 𐑓𐑉𐑪𐑕𐑑",
+            "pronunciation": "vhyl-riid kral-suul",
+            "synonyms": ["ice-lead", "cold-guide", "frost-path"]
+        }
+    },
+    "democraticTerms": {
+        "council-gather": {
+            "word": "𐑂𐑄𐑒𐑪𐑳𐑯",
+            "pronunciation": "kral-uun",
+            "synonyms": ["tribe-meet", "clan-gather", "people-speak"]
+        }
+    },
+    "tradeTerms": {
+        "jipper-make": {
+            "word": "𐑌𐑄𐑥𐑨𐑦𐑒",
+            "pronunciation": "nyth-maak",
+            "synonyms": ["spirit-craft", "brew-art", "glow-make"]
+        }
+    }
+}

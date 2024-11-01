@@ -1,0 +1,72 @@
+.overview, .history, .culture-and-society, .kougari-legacy, .trade, .relations-with-other-clans, .unified-attack-and-aftermath, .modern-era-and-contributions, .philosophy-and-beliefs, .technology-and-innovation, .interactions-with-skyforgers, .current-status-and-outlook {
+    background-color: #2c3e50;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: #ecf0f1;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.overview h1 {
+    color: #1abc9c;
+    font-size: 2.5em;
+    text-shadow: 2px 2px #34495e;
+}
+
+.history h2, .culture-and-society h2, .kougari-legacy h2, .trade h2, .relations-with-other-clans h2, .unified-attack-and-aftermath h2, .modern-era-and-contributions h2, .philosophy-and-beliefs h2, .technology-and-innovation h2, .interactions-with-skyforgers h2, .current-status-and-outlook h2 {
+    color: #e74c3c;
+    border-bottom: 2px solid #e74c3c;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.history h3, .culture-and-society h3, .kougari-legacy h3, .trade h3, .relations-with-other-clans h3, .unified-attack-and-aftermath h3, .modern-era-and-contributions h3, .philosophy-and-beliefs h3, .technology-and-innovation h3, .interactions-with-skyforgers h3, .current-status-and-outlook h3 {
+    color: #3498db;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #bdc3c7;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.weapons ul ul, .trade ul ul {
+    list-style-type: circle;
+    margin-left: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+strong {
+    color: #1abc9c;
+}
+
+.section {
+    animation: fadeInUp 0.5s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Add more styles as needed */

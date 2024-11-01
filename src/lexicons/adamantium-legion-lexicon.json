@@ -1,0 +1,296 @@
+{
+  "nouns": {
+    "hammer": {
+      "word": "𐑞𐑧𐑖𐑞𐑨𐑩𐑡",
+      "pronunciation": "thrax-jahg",
+      "synonyms": ["mallet", "sledge", "forger"]
+    },
+    "metal": {
+      "word": "𐑞𐑧𐑖𐑩𐑨𐑞",
+      "pronunciation": "drak-thur",
+      "synonyms": ["ore", "alloy", "element"]
+    },
+    "strength": {
+      "word": "𐑞𐑧𐑖𐑫𐑰𐑮",
+      "pronunciation": "thur-krar",
+      "synonyms": ["power", "might", "force"]
+    },
+    "adamantium": {
+    "word": "𐑛𐑮𐑨𐑒𐑪𐑯",
+    "pronunciation": "drah-kohn",
+    "definition": "The prized metal of the Adamantium Legion",
+    "synonyms": ["dragonmetal", "legionore"]
+  },
+  "forge": {
+    "word": "𐑔𐑮𐑨𐑤𐑒",
+    "pronunciation": "thralk",
+    "definition": "The sacred place where metal is shaped",
+    "synonyms": ["heartfire", "soulforge"]
+  },
+  "smith": {
+    "word": "𐑒𐑦𐑤𐑛𐑧𐑦",
+    "pronunciation": "kil-day",
+    "definition": "A craftsperson who works with metal",
+    "synonyms": ["metalshaper", "forgemaster"]
+  },
+  "mountain": {
+    "word": "𐑐𐑮𐑦𐑑",
+    "pronunciation": "prit",
+    "definition": "A large landform rising above the surrounding area",
+    "synonyms": ["stonepeak", "earthspire"]
+  },
+  "armor": {
+    "word": "𐑔𐑳𐑯𐑕𐑒𐑦𐑯",
+    "pronunciation": "thun-skin",
+    "definition": "Protective covering worn in battle",
+    "synonyms": ["metalflesh", "warshell"]
+  },
+  "weapon": {
+    "word": "𐑒𐑮𐑨𐑒𐑔𐑳𐑯",
+    "pronunciation": "krak-thun",
+    "definition": "An item used in combat",
+    "synonyms": ["warsteel", "foebreaker"]
+  },
+  "clan": {
+    "word": "𐑔𐑮𐑪𐑯",
+    "pronunciation": "throhn",
+    "definition": "A group of related families or communities",
+    "synonyms": ["kinforge", "bloodline"]
+  },
+  "honor": {
+    "word": "𐑛𐑮𐑨𐑒𐑔𐑳𐑯",
+    "pronunciation": "drak-thun",
+    "definition": "High respect and esteem",
+    "synonyms": ["soulworth", "truemetal"]
+  },
+  "battle": {
+    "word": "𐑒𐑮𐑨𐑒𐑯𐑪𐑮",
+    "pronunciation": "krak-nor",
+    "definition": "A fight between armed forces",
+    "synonyms": ["steelstorm", "forgeclash"]
+  },
+  "victory": {
+    "word": "𐑔𐑮𐑨𐑤𐑯𐑪𐑮",
+    "pronunciation": "thral-nor",
+    "definition": "Success in a battle or contest",
+    "synonyms": ["foesmiting", "hammerdawn"]
+    },
+    "warrior": {
+      "word": "𐑒𐑮𐑨𐑒𐑔𐑳𐑮",
+      "pronunciation": "krak-thur",
+      "definition": "One who fights in battle",
+      "synonyms": ["fighter", "soldier", "combatant"]
+    },
+    "meritocracy": {
+      "word": "𐑔𐑮𐑨𐑤𐑥𐑧𐑮",
+      "pronunciation": "thral-mer",
+      "definition": "System where advancement is based on ability",
+      "synonyms": ["skillrule", "worthrank", "abilityorder"]
+    },
+    "legion": {
+      "word": "𐑒𐑮𐑨𐑒𐑤𐑧𐑡",
+      "pronunciation": "krak-lej",
+      "definition": "Large military unit",
+      "synonyms": ["army", "force", "battalion"]
+    },
+    "leadership": {
+      "word": "𐑔𐑮𐑨𐑤𐑤𐑧𐑛",
+      "pronunciation": "thral-led",
+      "definition": "Position of guidance and command",
+      "synonyms": ["command", "authority", "governance"]
+    },
+    "fortress": {
+      "word": "𐑞𐑧𐑖𐑞𐑨𐑮𐑑",
+      "synonyms": ["stronghold", "citadel", "bastion"]
+    },
+    "anvil": {
+      "word": "𐑞𐑧𐑖𐑨𐑯𐑝",
+      "synonyms": ["workstone", "forgestone", "metalbase"]
+    },
+    "fire": {
+      "word": "𐑔𐑮𐑨𐑤𐑓𐑦𐑮",
+      "pronunciation": "thral-fir",
+      "definition": "The element of fire, especially in forging",
+      "synonyms": ["flame", "blaze", "inferno"]
+    },
+    "heat": {
+      "word": "𐑔𐑮𐑨𐑤𐑣𐑧𐑑",
+      "pronunciation": "thral-het",
+      "definition": "High temperature, especially in forging",
+      "synonyms": ["warmth", "temperature", "thermal energy"]
+    }
+  },
+  "verbs": {
+    "smelt": {
+      "word": "𐑞𐑧𐑖𐑜𐑨𐑩",
+      "pronunciation": "thrax-gah",
+      "synonyms": ["melt", "refine", "purify"]
+    },
+    "temper": {
+      "word": "𐑞𐑧𐑖𐑖𐑨𐑘",
+      "pronunciation": "thrak-shai",
+      "synonyms": ["harden", "strengthen", "toughen"]
+    },
+    "fight": {
+      "word": "𐑒𐑮𐑨𐑒𐑧𐑦",
+      "pronunciation": "krak-ei",
+      "synonyms": ["battle", "combat", "clash"]
+    },
+    "build": {
+      "word": "𐑐𐑮𐑦𐑑𐑧𐑦",
+      "pronunciation": "prit-ay",
+      "definition": "To construct or create",
+      "synonyms": ["stonecraft", "mountainraise"]
+    },
+    "defend": {
+      "word": "𐑔𐑳𐑯𐑧𐑦",
+      "pronunciation": "thun-ay",
+      "definition": "To protect from attack or harm",
+      "synonyms": ["shieldwall", "ironguard"]
+    },
+    "conquer": {
+      "word": "𐑛𐑮𐑨𐑒𐑯𐑪𐑮𐑧𐑦",
+      "pronunciation": "drak-nor-ay",
+      "definition": "To overcome and take control of",
+      "synonyms": ["hammerclaim", "legionspread"]
+    },
+    "forge": {
+      "word": "𐑔𐑳𐑯𐑓𐑪𐑮",
+      "pronunciation": "thun-for",
+      "definition": "To shape metal with heat and force",
+      "synonyms": ["craft", "create", "smith", "soulcraft", "fireform"]
+    },
+    "lead": {
+      "word": "𐑔𐑮𐑨𐑤𐑤𐑧",
+      "pronunciation": "thral-le",
+      "definition": "To guide or command others",
+      "synonyms": ["direct", "command", "guide"]
+    },
+    "unite": {
+      "word": "𐑔𐑮𐑨𐑤𐑯𐑦",
+      "pronunciation": "thral-ni",
+      "definition": "To join together as one",
+      "synonyms": ["combine", "merge", "bond"]
+    },
+    "protect": {
+      "word": "𐑔𐑳𐑯𐑐𐑮𐑪",
+      "pronunciation": "thun-pro",
+      "definition": "To defend from harm",
+      "synonyms": ["guard", "shield", "safeguard"]
+    },
+    "advance": {
+      "word": "𐑒𐑮𐑨𐑒𐑨𐑛𐑝",
+      "synonyms": ["march", "progress", "forward"]
+    }
+  },
+  "adjectives": {
+    "unbreakable": {
+      "word": "𐑞𐑧𐑖𐑯𐑩𐑨𐑞",
+      "pronunciation": "thrak-nahth",
+      "synonyms": ["indestructible", "invincible", "impenetrable"]
+    },
+    "molten": {
+      "word": "𐑞𐑧𐑖𐑬𐑨𐑛",
+      "pronunciation": "thrax-wahd",
+      "synonyms": ["melted", "liquefied", "fluid"]
+    },
+    "strong": {
+    "word": "𐑒𐑮𐑨𐑒𐑔𐑳𐑯",
+    "pronunciation": "krak-thun",
+    "definition": "Having great physical power",
+    "synonyms": ["ironhearted", "mountainlike"]
+  },
+  "resilient": {
+    "word": "𐑛𐑮𐑨𐑒𐑔𐑳𐑯𐑧𐑦",
+    "pronunciation": "drak-thun-ay",
+    "definition": "Able to withstand or recover quickly from difficulties",
+    "synonyms": ["unbreakable", "forgetempered"]
+  },
+  "honorable": {
+    "word": "𐑛𐑮𐑨𐑒𐑔𐑳𐑯𐑦𐑒",
+    "pronunciation": "drak-thun-ik",
+    "definition": "Possessing or characterized by honor",
+    "synonyms": ["truesteel", "oathbound", "worthy"]
+  },
+  "skilled": {
+    "word": "𐑒𐑦𐑤𐑛𐑧𐑦𐑔𐑳𐑯",
+    "pronunciation": "kil-day-thun",
+    "definition": "Having or showing the knowledge to do something well",
+    "synonyms": ["mastercraft", "forgeblessed"]
+  },
+  "unyielding": {
+    "word": "𐑐𐑮𐑦𐑑𐑔𐑳𐑯",
+    "pronunciation": "prit-thun",
+    "definition": "Not giving way to pressure",
+    "synonyms": ["mountainfast", "ironwilled"]
+  },
+  "armored": {
+    "word": "𐑔𐑳𐑯𐑨𐑮𐑥",
+    "synonyms": ["protected", "shielded", "guarded"]
+  }
+  },
+  "phrases": {
+  "May your forge never cool": {
+    "word": "𐑔𐑮𐑨𐑤𐑒 𐑯𐑧𐑝𐑧𐑮 𐑒𐑮𐑨𐑒𐑔𐑳𐑯𐑧𐑦 𐑒𐑪𐑤𐑛",
+    "pronunciation": "thralk nev-er krak-thun-ay kold",
+    "definition": "A blessing wishing continued productivity and passion"
+  },
+  "By the hammer of the ancestors": {
+    "word": "𐑚𐑦 𐑔𐑧 𐑒𐑮𐑨𐑒𐑔𐑳𐑯 𐑪𐑓 𐑔𐑧 𐑛𐑮𐑨𐑒𐑔𐑳𐑯𐑕",
+    "pronunciation": "bi the krak-thun of the drak-thuns",
+    "definition": "An oath invoking the power and wisdom of past generations"
+  },
+  "The mountain endures": {
+    "word": "𐑔𐑧 𐑐𐑮𐑦𐑑 𐑧𐑯𐑛𐑳𐑮𐑕",
+    "pronunciation": "the prit en-durs",
+    "definition": "A saying emphasizing resilience and permanence"
+  },
+  "Forge in strength": {
+    "word": "𐑔𐑮𐑨𐑤𐑒𐑧𐑦 𐑦𐑯 𐑒𐑮𐑨𐑒𐑔𐑳𐑯",
+    "pronunciation": "thral-kay in krak-thun",
+    "definition": "A motto encouraging powerful and skilled craftsmanship"
+  },
+  "By steel and honor": {
+    "word": "𐑔𐑳𐑯𐑥𐑧𐑑 𐑛𐑮𐑨𐑒𐑔𐑳𐑯",
+    "pronunciation": "thun-met drak-thun",
+    "definition": "Traditional warrior's oath",
+    "synonyms": ["warrior's pledge", "battle oath"]
+  },
+  "Strength through unity": {
+    "word": "𐑒𐑮𐑨𐑒𐑕𐑑𐑮 𐑔𐑮𐑨𐑤𐑯𐑦",
+    "pronunciation": "krak-str thral-ni",
+    "definition": "Modern Legion motto",
+    "synonyms": ["united we stand", "together strong"]
+  }
+},
+"militaryRanks": {
+  "commander": {
+    "word": "𐑒𐑮𐑨𐑒𐑒𐑪𐑥",
+    "synonyms": ["leader", "chief", "captain"]
+  }
+},
+"forgeTerms": {
+  "forge": {
+    "word": "𐑔𐑮𐑨𐑤𐑒",
+    "pronunciation": "thralk",
+    "definition": "The sacred place where metal is shaped",
+    "synonyms": ["heartfire", "soulforge"]
+  }
+},
+"battleFormations": {
+  "legion": {
+    "word": "𐑒𐑮𐑨𐑒𐑤𐑧𐑡",
+    "pronunciation": "krak-lej",
+    "definition": "Large military unit",
+    "synonyms": ["army", "force", "battalion"]
+  }
+},
+"warCries": {
+  "battle": {
+    "word": "𐑒𐑮𐑨𐑒𐑯𐑪𐑮",
+    "pronunciation": "krak-nor",
+    "definition": "A fight between armed forces",
+    "synonyms": ["steelstorm", "forgeclash"]
+  }
+}
+}

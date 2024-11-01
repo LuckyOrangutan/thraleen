@@ -1,0 +1,21 @@
+.dossier.deepwalkers {
+  background-color: #1a2a3a;
+  color: #f0e68c;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.3);
+}
+
+.dossier.deepwalkers h3 {
+  color: #dda0dd;
+}
+
+.dossier.deepwalkers h4 {
+  color: #ff69b4;
+}
+
+.dossier.deepwalkers p {
+  line-height: 1.6;
+}
+
+/* Add more styles as needed */

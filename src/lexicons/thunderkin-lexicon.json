@@ -1,0 +1,115 @@
+{
+  "nouns": {
+    "lightning": {
+      "word": "𐑥𐑗𐑡𐑜𐑨𐑩",
+      "pronunciation": "zith-kaa",
+      "synonyms": ["bolt", "flash", "spark"]
+    },
+    "storm": {
+      "word": "𐑥𐑗𐑡𐑯𐑛𐑥𐑡",
+      "pronunciation": "mycht-rul",
+      "synonyms": ["tempest", "squall", "gale"]
+    },
+    "invention": {
+      "word": "𐑥𐑗𐑡𐑞𐑧𐑖𐑨𐑗",
+      "pronunciation": "zyk-thuur",
+      "synonyms": ["creation", "innovation", "device"]
+    },
+    "energy": {
+      "word": "𐑥𐑗𐑡𐑯𐑛𐑮𐑨",
+      "pronunciation": "velk-ra",
+      "synonyms": ["power", "force", "vitality"]
+    },
+    "science": {
+      "word": "𐑥𐑗𐑡𐑞𐑧𐑖",
+      "pronunciation": "kyth-uur",
+      "synonyms": ["knowledge", "research", "study"]
+    },
+    "laboratory": {
+      "word": "𐑥𐑗𐑡𐑤𐑨𐑚",
+      "pronunciation": "zyn-thral",
+      "synonyms": ["research facility", "workshop", "testing ground"]
+    },
+    "medicine": {
+      "word": "𐑥𐑗𐑡𐑥𐑧𐑛",
+      "pronunciation": "myn-dral",
+      "synonyms": ["healing", "treatment", "cure"]
+    },
+    "spacecraft": {
+      "word": "𐑥𐑗𐑡𐑕𐑐𐑨𐑕",
+      "pronunciation": "vax-thuur",
+      "synonyms": ["starship", "vessel", "ship"]
+    },
+    "discovery": {
+      "word": "𐑥𐑗𐑡𐑛𐑦𐑕",
+      "pronunciation": "kyth-raal",
+      "synonyms": ["finding", "breakthrough", "revelation"]
+    },
+    "experiment": {
+      "word": "𐑥𐑗𐑡𐑧𐑒𐑕",
+      "pronunciation": "zyk-thral",
+      "synonyms": ["test", "trial", "investigation"]
+    }
+  },
+  "verbs": {
+    "electrify": {
+      "word": "𐑥𐑗𐑡𐑜𐑨𐑩𐑖",
+      "pronunciation": "zith-kra",
+      "synonyms": ["charge", "energize", "power"]
+    },
+    "innovate": {
+      "word": "𐑥𐑗𐑡𐑞𐑧𐑖𐑰",
+      "pronunciation": "kyth-vral",
+      "synonyms": ["create", "invent", "design"]
+    },
+    "research": {
+      "word": "𐑥𐑗𐑡𐑮𐑧𐑕",
+      "pronunciation": "myn-thuur",
+      "synonyms": ["study", "investigate", "examine"]
+    },
+    "analyze": {
+      "word": "𐑥𐑗𐑡𐑨𐑯𐑨",
+      "pronunciation": "zyk-raal",
+      "synonyms": ["examine", "study", "evaluate"]
+    },
+    "calculate": {
+      "word": "𐑥𐑗𐑡𐑒𐑨𐑤",
+      "pronunciation": "vax-throl",
+      "synonyms": ["compute", "determine", "measure"]
+    }
+  },
+  "adjectives": {
+    "electric": {
+      "word": "𐑥𐑗𐑡𐑜𐑨𐑩𐑩",
+      "pronunciation": "zith-kaa-ul",
+      "synonyms": ["charged", "powered", "energized"]
+    },
+    "ingenious": {
+      "word": "𐑥𐑗𐑡𐑥𐑗𐑡𐑰",
+      "pronunciation": "kyth-vuur-al",
+      "synonyms": ["clever", "brilliant", "innovative"]
+    },
+    "scientific": {
+      "word": "𐑥𐑗𐑡𐑕𐑨𐑦",
+      "pronunciation": "myn-thral-uk",
+      "synonyms": ["empirical", "analytical", "methodical"]
+    }
+  },
+  "technicalTerms": {
+    "propulsion": {
+      "word": "𐑥𐑗𐑡𐑐𐑮𐑪𐑐",
+      "pronunciation": "velk-zuur",
+      "synonyms": ["thrust", "drive", "momentum"]
+    },
+    "quantum": {
+      "word": "𐑥𐑗𐑡𐑒𐑢𐑨𐑯",
+      "pronunciation": "kyth-mraal",
+      "synonyms": ["particle", "wave", "energy-state"]
+    },
+    "antimatter": {
+      "word": "𐑥𐑗𐑡𐑨𐑯𐑑𐑦",
+      "pronunciation": "zith-vhuur",
+      "synonyms": ["anti-particles", "inverse-matter", "negative-energy"]
+    }
+  }
+}
